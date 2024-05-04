@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    overflow: hidden;
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+}
+
+#mainContainer {
+    height: 100dvh;
+    width: 100dvw;
+}
+
+#labyrinth {
+    height: 826px;
+    width: 1640px;
+    margin: 0 auto;
+}
